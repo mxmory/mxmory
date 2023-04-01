@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+There is nothing worthy. Just a place for my experiments, examples and thoughts. 
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxmory&layout=compact)]()
 
 <!--
